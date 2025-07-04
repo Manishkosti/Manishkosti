@@ -1,6 +1,6 @@
-<h1>Hii👋🏻I'm Manish Kosti</h1>h1 
+<h1>Hii👋🏻I'm Manish Kosti</h1>
 <hr>
-💫 About Me: <br>
+<h3>💫 About Me: </h3><br>
 I'm an Information Technology graduate (BSc IT, Class of 2025) with a growing passion for building web applications and solving real-world problems through code. <br>Currently at an intermediate level in programming, I'm focused on strengthening my full-stack development skills and exploring modern web technologies.<br><br>Tech Skills<br><br>» Languages: HTML, CSS, JavaScript, Python, SQL<br>» Frontend: React, Responsive Web Design, DOM Manipulation<br>» Backend: Node.js, Express.js<br>» Databases: MongoDB, MySQL, SQL<br>» Tools & Platforms: Git, GitHub, Postman, VS Code, Netlify, Render, Cursor Ai<br><br>What I'm Working On<br><br>» Enhancing my backend knowledge with REST APIs and authentication<br>» Building full-stack projects using the MERN stack<br>» Practicing clean code principles and improving debugging skills<br>» Learning about deployment, CI/CD, and basic cloud platforms like Firebase & Vercel<br><br>Goals<br><br>» Contribute to open-source projects<br>» Create and maintain a personal portfolio with real-world projects<br>» Prepare for industry certifications and tech interviews<br>» Land my first role as a junior developer or intern in a tech-driven company<br><br>Let's Connect <br><br>» I'm always open to collaboration, learning from others, and sharing what I know. <br>Feel free to check out my repositories, leave feedback, or connect with me!
 
 <hr>
