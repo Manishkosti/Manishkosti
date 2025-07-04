@@ -4,12 +4,25 @@ I'm an Information Technology graduate (BSc IT, Class of 2025) with a growing pa
 
 <hr>
 <h1>🌐 Socials: </h1> <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575433310284)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/man__ish20/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kosti/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24921251/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/Manish_kosti)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkosti.13@gmail.com)
+<a href="https://www.facebook.com/profile.php?id=61575433310284" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://instagram.com/man__ish20/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/manish-kosti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://stackoverflow.com/users/24921251/" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+</a>
+<a href="https://x.com/Manish_kosti" target="_blank">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white" alt="X (Twitter)">
+</a>
+<a href="mailto:manishkosti.13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 
 # 💻 Tech Stack:
