@@ -2,11 +2,13 @@
 <h3>💫 About Me: </h3>
 I’m an MCA student with a growing passion for building web applications and solving real-world problems through code. <br>Currently at an intermediate level in programming, I'm focused on expanding my expertise in cybersecurity and ethical hacking while honing my backend, deployment, and cloud skills and exploring modern web technologies. 
 
-<br><br><B>Tech Skills</B><br>» Languages: HTML, CSS, JavaScript, Python, SQL<br>» Frontend: React, Responsive Web Design, DOM Manipulation<br>» Backend: Node.js, Express.js<br>» Cybersecurity & Ethical Hacking: Network & Web Security Fundamentals, Vulnerability Assessment, Basic Penetration Testing<br>» Databases: MongoDB, MySQL, SQL<br>» Tools & Platforms: Git, GitHub, Postman, VS Code, Wireshark, Burp Suite, Netlify, Render, Cursor Ai
+<br><B>Tech Skills</B><br>» Languages: HTML, CSS, JavaScript, Python, SQL<br>» Frontend: React, Responsive Web Design, DOM Manipulation<br>» Backend: Node.js, Express.js<br>» Cybersecurity & Ethical Hacking: Network & Web Security Fundamentals, Vulnerability Assessment, Basic Penetration Testing<br>» Databases: MongoDB, MySQL, SQL<br>» Tools & Platforms: Git, GitHub, Postman, VS Code, Wireshark, Burp Suite, Netlify, Render, Cursor Ai
 
-<br><br><b>What I'm Working On</b><br>» Strengthening backend development with REST APIs, authentication, and Python-based projects<br>» Exploring Cybersecurity & Ethical Hacking fundamentals, including web security, vulnerability assessment, and penetration testing<br>» Practicing clean code principles and improving debugging skills
+<br><b>What I'm Working On</b><br>» Strengthening backend development with REST APIs, authentication, and Python-based projects<br>» Exploring Cybersecurity & Ethical Hacking fundamentals, including web security, vulnerability assessment, and penetration testing<br>» Practicing clean code principles and improving debugging skills
 
-<br><br><b>Goals</b><br>» Contribute to open-source projects<br>» Create and maintain a personal portfolio with real-world projects<br>» Prepare for industry certifications and tech interviews<br>» Land my first role as a junior developer or intern in a tech-driven company<br><br><b>Let's Connect</b><br>» I'm always open to collaboration, learning from others, and sharing what I know. <br>Feel free to check out my repositories, leave feedback, or connect with me!
+<br><b>Goals</b><br>» Contribute to open-source projects<br>» Create and maintain a personal portfolio with real-world projects<br>» Prepare for industry certifications and tech interviews<br>» Land my first role as a junior developer or intern in a tech-driven company<br><br><b>Let's Connect</b>
+
+<br>» I'm always open to collaboration, learning from others, and sharing what I know. <br>Feel free to check out my repositories, leave feedback, or connect with me!
 
 <hr>
 <h1>🌐 Socials: </h1> <br>
