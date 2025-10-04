@@ -8,7 +8,7 @@ I’m an MCA student with a growing passion for building web applications and so
 
 <br><b>Goals</b><br>» Contribute to open-source projects<br>» Create and maintain a personal portfolio with real-world projects<br>» Prepare for industry certifications and tech interviews<br>» Land my first role as a junior developer or intern in a tech-driven company
 
-<br><b>Let's Connect</b><br>» I'm always open to collaboration, learning from others, and sharing what I know. <br>Feel free to check out my repositories, leave feedback, or connect with me!
+<br><b>Let's Connect</b><br>» I'm always open to collaboration, learning from others, and sharing what I know. <br>» Feel free to check out my repositories, leave feedback, or connect with me!
 
 <hr>
 <h1>🌐 Socials: </h1> <br>
